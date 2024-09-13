@@ -58,3 +58,16 @@ button{
     font-size: 18px;
 }
 button:hover{background-color: #3498bd;}
+#resumeoutput{
+    max-width: 600px;
+    margin: auto;
+    padding:20px;
+    border: 2px solid #3498bd;
+    background-color: aliceblue;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    
+}
+#resumeoutput{
+    color: black;
+}
